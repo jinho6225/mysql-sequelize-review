@@ -3,6 +3,7 @@ const cors = require('cors');
 const bodyParser = require('body-parser');
 const router = require('./router.js');
 const app = express();
+const db = require('../database/index.js');
 
 const port = 3003;
 
