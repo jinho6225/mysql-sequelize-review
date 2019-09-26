@@ -1,5 +1,8 @@
 # mysql-sequelize-review
 
+### setup
+npm install, npm start
+
 ## Step 1
 In the MySQL shell, create a database called Welp
 Create a connection to database in database/index.js
