@@ -15,6 +15,7 @@ Run your seed file
 ## Step 4
 Fill out the dbHelpers in database/helpers.js
 Connect the helpers to your controllers 
+Fill out the controllers
 Test via Postman
 
 ## Step 5 
